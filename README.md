@@ -11,3 +11,5 @@ Unity and Blender
 # Copyright Information
 > All images and models downloaded from external sources. Models such as the landscape and turrets were created by developer on blender. Models download from other sources (such as the player ship and background) are not being used for profit but for self education.
 
+# Developer:
+Christopher S Coram
