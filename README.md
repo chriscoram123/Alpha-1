@@ -6,7 +6,7 @@ Alpha 1 was created on mac os using Unity 3D and C# for scripting. For modeling,
 free downloads provided on unity's website. Collection of files also includes demos and concept art.
 
 <h1>Sources</h1>
-*Unity and Blender*
+Unity and Blender
 
 # Copyright Information
 > All images and models downloaded from external sources. Models such as the landscape and turrets were created by developer on blender. Models download from other sources (such as the player ship and background) are not being used for profit but for self education.
